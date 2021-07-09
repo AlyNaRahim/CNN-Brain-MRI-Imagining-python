@@ -1,1 +1,1 @@
-# Convolutional Neural Netwrok implementation for detecting Brain MRI Images
+# Brain MRI binary classification using Convolutional Neural Netwrok

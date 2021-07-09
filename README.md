@@ -1,2 +1,4 @@
 # Brain MRI binary classification using Convolutional Neural Network
-The following code was implemented using Python 2.7
+<p> The following code was implemented using Python 2.7 </p>
+<b>Libraries:</b> open CV (cv2) | numpy | pandas | matplotlib | seaborn | Keras
+

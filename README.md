@@ -1,1 +1,1 @@
-# Brain MRI binary classification using Convolutional Neural Netwrok
+# Brain MRI binary classification using Convolutional Neural Network
